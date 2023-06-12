@@ -1,16 +1,3 @@
 # assignment_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#photo galary App
+![PhotoGalleryApp](https://github.com/ReturajProshad/assignment_two/assets/130851471/86e24737-bbb7-4adf-8b8a-c00105b83826)
